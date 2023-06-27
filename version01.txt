@@ -7,4 +7,4 @@ This is the advancement of previous feature
 
 Feature 2 is completed and ready for release 
 
-This is the advancement of previous feature
+
